@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.jpeg"
+  avatar           : "me.jpeg"
   name             : "Zsigmond András-Andor"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
